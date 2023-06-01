@@ -1,8 +1,2 @@
-# HEU课程设计大作业汇总
-
-恭喜你找到宝藏  
-在这里具有各计算机学长留下的珍贵实验源码和实验数据。  
-请参考，不要抄袭。  
-为了保证本项目持续运作，请不要过度宣传本organization。  
-有任何侵权请联系organization组织者即可  
-Enjoy！  
+# readme of the repo
+*You shall not seen this file.*
