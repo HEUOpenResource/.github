@@ -59,6 +59,10 @@ Enjoy！
 
   - ### [HEUCG-Exp4](https://github.com/HEU-Course-Design/HEUCG-Exp4)
 
+  - ### [HEUCG-Exp5](https://github.com/HEU-Course-Design/HEUCG-Exp5)
+
+  - ### [HEUCG-Exp6](https://github.com/HEU-Course-Design/HEUCG-Exp6)
+
   - ### [HEUCG-Flat20](https://github.com/HEU-Course-Design/HEUCG-Flat20)
 
 - 计算机逻辑设计综合实验
