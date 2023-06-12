@@ -69,6 +69,10 @@ Enjoy！
 
   - ### [HEU-LogicDesign](https://github.com/HEU-Course-Design/HEU-LogicDesign)
 
+- 模型机设计
+
+  - ### [HEU-ModelComputer](https://github.com/HEU-Course-Design/HEU-ModelComputer)
+
 - IOS程序设计
 
   - ### [IOS-Exp1](https://github.com/HEU-Course-Design/IOS-Exp1)
