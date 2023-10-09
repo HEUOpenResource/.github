@@ -80,6 +80,10 @@ Enjoy！
   - ### [IOS-Exp2](https://github.com/HEU-Course-Design/IOS-Exp2)
 
   - ### [IOS-Exp3](https://github.com/HEU-Course-Design/IOS-Exp3)
+  
+- 面向对象程序设计
+
+  - ### [EasyPokemon](https://github.com/HEU-Course-Design/EasyPokemon-Homework)
 
 ### 公选课
 
