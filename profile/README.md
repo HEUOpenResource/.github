@@ -2,18 +2,18 @@
 
 🙋‍恭喜你找到宝藏
 
-在这里具有各计算机学长留下的珍贵实验源码和实验数据。
+在这里具有各计算机学长留下的珍贵**实验源码**和**实验数据**。
 
-请参考，不要抄袭。
+仅限参考，**不要抄袭**。
 
-为了保证本项目持续运作，请不要过度宣传本organization。
+为了保证本项目持续运作，请**不要过度宣传**本organization。
 
-有任何侵权请联系organization组织者即可
+有任何侵权请联系organization[组织者](mailto://hdxin2002@gmail.com)即可
 
 Enjoy！
 
-- 欢迎各位校友分享自己的仓库并fork到本organization中
-- 有意向者请联系[xhd0728@hrbeu.edu.cn](mailto://xhd0728@hrbeu.edu.cn)成为组织成员
+- 欢迎各位校友分享自己的仓库并**fork**到本**organization**中
+- 有意向者请联系 [hdxin2002@gmail.com](mailto://hdxin2002@gmail.com) 成为组织成员！欢迎你的加入！
 
 ## 正在更新
 
@@ -84,6 +84,8 @@ Enjoy！
 - 面向对象程序设计
 
   - ### [EasyPokemon](https://github.com/HEU-Course-Design/EasyPokemon-Homework)
+ 
+  - ### [EmailSystem](https://github.com/HEU-Course-Design/Email_System)
 
 ### 公选课
 
