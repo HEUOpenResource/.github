@@ -86,6 +86,8 @@ Enjoy！
   - ### [EasyPokemon](https://github.com/HEU-Course-Design/EasyPokemon-Homework)
  
   - ### [EmailSystem](https://github.com/HEU-Course-Design/Email_System)
+ 
+  - ### [Homework](https://github.com/HEU-Course-Design/ObjectOrientedProgramming-Small)
 
 ### 公选课
 
