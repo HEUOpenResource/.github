@@ -22,7 +22,9 @@ Enjoy！
 - 数据结构
 
   - ### [DataStructureHomework](https://github.com/HEU-Course-Design/DataStructureHomework)
-  - ### [DataStructure2023](https://github.com/only9464/DataStructure2023)
+ 
+  - ### [DataStructure2023](https://github.com/HEU-Course-Design/DataStructure2023)
+
 - 操作系统
 
   - ### [HEU-OS](https://github.com/HEU-Course-Design/HEU-OS)
