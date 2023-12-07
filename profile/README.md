@@ -14,6 +14,9 @@ Enjoy！
 
 - 欢迎各位校友分享自己的仓库并**fork**到本**organization**中
 - 有意向者请联系 [apply@kokomi0728.eu.org](mailto://apply@kokomi0728.eu.org) 成为组织成员！欢迎你的加入！
+- contributors are shown as follow:
+  
+  ![image](https://github.com/HEU-Course-Design/.github/assets/77320781/28e4b87f-ca86-48f1-a2a3-86b5b8cdc0ca)
 
 ## 正在更新
 
