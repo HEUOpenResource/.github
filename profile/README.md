@@ -40,6 +40,9 @@ Enjoy！
   - ### [HEU-HW](https://github.com/HEU-Course-Design/HEU-HW)
 
 - 嵌入式系统设计
+
+  - ### [SmartLab_arduino](https://github.com/HEU-Course-Design/SmartLab_Arduino)
+
   - ### [HEUCSEmbedded](https://github.com/HEU-Course-Design/HEUCSEmbedded)
 
 ### 专选课
