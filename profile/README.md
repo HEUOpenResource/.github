@@ -39,6 +39,9 @@ Enjoy！
 
   - ### [HEU-HW](https://github.com/HEU-Course-Design/HEU-HW)
 
+- 嵌入式系统设计
+  - ### [HEUCSEmbedded](https://github.com/HEU-Course-Design/HEUCSEmbedded)
+
 ### 专选课
 
 - 数据库
