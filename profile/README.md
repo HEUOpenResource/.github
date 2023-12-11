@@ -28,6 +28,8 @@ Enjoy！
  
   - ### [DataStructure2023](https://github.com/HEU-Course-Design/DataStructure2023)
 
+  - ### [EasyAthleteManagementSystem](https://github.com/HEU-Course-Design/EasyAthleteManagementSystem)
+
 - 操作系统
 
   - ### [HEU-OS](https://github.com/HEU-Course-Design/HEU-OS)
