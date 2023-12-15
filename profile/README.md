@@ -37,6 +37,10 @@ Enjoy！
 - 算法设计与分析
 
   - ### [HEU-Algorithm](https://github.com/HEU-Course-Design/HEU-Algorithm)
+ 
+- 信息系统课程设计
+
+  - ### [SmartHotel](https://github.com/HEU-Course-Design/SmartHotel)
 
 - 计算机硬件综合课程设计
 
