@@ -68,19 +68,7 @@ Enjoy！
 
 - 计算机图形学
 
-  - ### [HEUCG-Exp1](https://github.com/HEU-Course-Design/HEUCG-Exp1)
-
-  - ### [HEUCG-Exp2](https://github.com/HEU-Course-Design/HEUCG-Exp2)
-
-  - ### [HEUCG-Exp3](https://github.com/HEU-Course-Design/HEUCG-Exp3)
-
-  - ### [HEUCG-Exp4](https://github.com/HEU-Course-Design/HEUCG-Exp4)
-
-  - ### [HEUCG-Exp5](https://github.com/HEU-Course-Design/HEUCG-Exp5)
-
-  - ### [HEUCG-Exp6](https://github.com/HEU-Course-Design/HEUCG-Exp6)
-
-  - ### [HEUCG-Flat20](https://github.com/HEU-Course-Design/HEUCG-Flat20)
+  - ### [Computer_Graphics_Homework](https://github.com/HEU-Course-Design/Computer_Graphics_Homework)
 
 - 计算机逻辑设计综合实验
 
